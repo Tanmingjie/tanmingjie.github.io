@@ -12,14 +12,14 @@ github_repo: "https://github.com/Tanmingjie" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Take every effort for what you want!"
-sidebar-avatar: /img/about-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/jay-loveIsLove.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     Oliver
+zhihu_username:     oliver-50-26
 github_username:    Tanmingjie
 facebook_username:  #
 jianshu_username:   3fe91de4c6c4
