@@ -6,7 +6,7 @@ author: oliver
 header-img: img/react.jpg
 catalog: true
 tags:
-    - life
+    - React
 ---
 
 [TOC]
